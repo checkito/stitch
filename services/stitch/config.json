@@ -2,8 +2,9 @@
     "name": "stitch",
     "type": "mongodb-atlas",
     "config": {
-        "readPreference": "secondary",
-        "wireProtocolEnabled": true
+        "clusterName": "Amazon",
+        "readPreference": "primary",
+        "wireProtocolEnabled": false
     },
     "version": 1
 }

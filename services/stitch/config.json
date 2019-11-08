@@ -1,0 +1,11 @@
+{
+    "id": "5dc545865602b9d86ff2a494",
+    "name": "stitch",
+    "type": "mongodb-atlas",
+    "config": {
+        "clusterName": "Amazon",
+        "readPreference": "primary",
+        "wireProtocolEnabled": false
+    },
+    "version": 1
+}

@@ -1,0 +1,10 @@
+{
+    "id": "5dc54694bbd23a6d6815c8f7",
+    "name": "cron",
+    "type": "SCHEDULED",
+    "config": {
+        "schedule": "* * * * *"
+    },
+    "function_name": "timestamp",
+    "disabled": false
+}

@@ -1,7 +1,4 @@
 {
     "name": "mongodb-atlas",
-    "type": "mongodb-atlas",
-    "config": {
-        "clusterName": "Amazon"
-    }
+    "type": "mongodb-atlas"
 }

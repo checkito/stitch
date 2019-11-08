@@ -28,6 +28,7 @@ exports = function(payload, response) {
 
     // The return value of the function is sent as the response back to the client
     // when the "Respond with Result" setting is set.
-    response.setStatus(200);
+    response.setStatus(302);
+    response.setHeader('Location', 'https://www.googole.com');
     return  "Hello World!";
 };

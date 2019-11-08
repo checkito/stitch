@@ -1,7 +1,6 @@
 {
-    "app_id": "stitch-bauvo",
+    "app_id": "sample-imjnv",
     "config_version": 20180301,
-    "name": "Stitch",
     "location": "IE",
     "deployment_model": "LOCAL",
     "security": {}
